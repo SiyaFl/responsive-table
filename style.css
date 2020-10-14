@@ -6,6 +6,7 @@
 body 
 {
     background-color:whitesmoke;
+    background-image: url(flower/flower.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -14,3 +15,5 @@ body
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 2px 2px 4px #000000;
   }
+  .text-color{
+    color: whitesmoke;
